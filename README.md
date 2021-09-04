@@ -11,8 +11,9 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - ⚡ Fun fact: ...
 -->
-- 📫 How to reach me: ...
-You can reach out to me at alex@alexlorei.xyz or discord at x86Cow#0923
 - 🌱 I’m currently learning Golang
+
+#### - 📫 How to reach me:
+You can reach out to me at alex@alexlorei.xyz or discord at x86Cow#0923
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrCow3)](https://github.com/anuraghazra/github-readme-stats)
