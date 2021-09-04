@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - ⚡ Fun fact: ...
 -->
-####- 🌱 I’m currently learning: 
+#### - 🌱 I’m currently learning: 
 Golang
 
 #### - 📫 How to reach me:
