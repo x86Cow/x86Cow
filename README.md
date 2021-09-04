@@ -11,7 +11,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning Golang
+####- 🌱 I’m currently learning: 
+Golang
 
 #### - 📫 How to reach me:
 You can reach out to me at alex@alexlorei.xyz or discord at x86Cow#0923
