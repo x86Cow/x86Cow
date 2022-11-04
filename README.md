@@ -1,10 +1,10 @@
 ### Hi there I am Alexander Lorei👋
 
 #### - 🌱 I’m currently learning: 
-Golang
+Malware analysis and reverse engineering.
 
 #### - Projects I am working on now:
-I am working on a blackjack game and a todo list
+None
 
 #### - 📫 How to reach me:
 You can reach out to me at alexlorei06@gmail.com or discord at x86Cow#0923
