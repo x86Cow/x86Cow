@@ -2,9 +2,10 @@
 
 #### - 🌱 I’m currently learning: 
 Malware analysis and reverse engineering.
+Java and C#
 
 #### - Projects I am working on now:
-None
+Java Blackjack (check repo)
 
 #### - 📫 How to reach me:
 You can reach out to me at alexlorei06@gmail.com or discord at x86Cow#0923
