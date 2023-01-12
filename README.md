@@ -1,5 +1,5 @@
 ### Hi there I am Alexander Lorei 👋
-#### Founder of <a rel="HackingAlpha" href="https://blog.hackingalpha.tech">HackingAlpha>/a>
+#### Founder of <a rel="HackingAlpha" href="https://blog.hackingalpha.tech">HackingAlpha></a>
 
 #### - 🌱 I’m currently learning: 
 Malware analysis and reverse engineering.
